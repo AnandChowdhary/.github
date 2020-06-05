@@ -1,7 +1,7 @@
 # Support
 
-> This project has a [Code of Conduct](https://github.com/AnandChowdhary/.github/blob/master/CODE_OF_CONDUCT.md).
-> By interacting with this repository, organisation, or community you agree to
+> This project has a [Code of Conduct](CODE_OF_CONDUCT.md).
+> By interacting with this repository, organization, or community you agree to
 > abide by its terms.
 
 Hi!  👋
@@ -32,7 +32,7 @@ much easier for us to help. It’s easy to fall into the trap of asking somethin
 close to a problem. Then, those trying to help you out have to spend a lot of time asking additional
 questions to understand what you are hoping to achieve.
 
-Spending the extra time up front can help save everyone time in the long run.
+Spending the extra time upfront can help save everyone time in the long run.
 
 *   Try to define what you need help with:
     *   Is there something in particular you want to do?
